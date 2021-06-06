@@ -1,4 +1,4 @@
-package com.tighub.stanislavmikheyev.pgsgradessource.entity
+package com.github.stanislavmikheyev.pgsgradessource.entity
 
 import javax.persistence.Column
 import javax.persistence.Entity

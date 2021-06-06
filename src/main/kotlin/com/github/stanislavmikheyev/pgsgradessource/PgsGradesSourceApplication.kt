@@ -1,7 +1,8 @@
-package com.tighub.stanislavmikheyev.pgsgradessource
+package com.github.stanislavmikheyev.pgsgradessource
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
+
 
 @SpringBootApplication
 class PgsGradesSourceApplication
