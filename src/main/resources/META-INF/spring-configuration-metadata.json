@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "pgs.h2DatabaseServer.enable",
+      "type": "java.lang.Boolean",
+      "description": "Enable H2 database server."
+    },
+    {
+      "name": "pgs.h2DatabaseServer.port",
+      "type": "java.lang.String",
+      "description": "Port on which H2 database server should be running."
+    }
+  ] }

@@ -31,6 +31,8 @@ dependencies {
 
     implementation("org.springdoc:springdoc-openapi-ui:1.5.8")
     implementation("org.springdoc:springdoc-openapi-data-rest:1.5.8")
+
+    implementation("org.springframework.boot:spring-boot-configuration-processor")
 }
 
 tasks.withType<KotlinCompile> {
