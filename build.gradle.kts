@@ -12,7 +12,7 @@ noArg {
     annotation("javax.persistence.Entity")
 }
 
-group = "com.tighub.stanislavmikheyev"
+group = "com.github.stanislavmikheyev"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
